@@ -2,9 +2,9 @@
 **`Java Backend Developer`**
 
 ## About Me
-* I build scalable backends with Java, Spring Boot, and Microservices.
-* Currently interning as a Java Backend Developer at Mentor Bridge, Dindigul.
-* Passionate about REST APIs, system design, and AI-integrated backend solutions.
+- I build scalable backends with Java, Spring Boot, and Microservices.
+- Currently interning as a Java Backend Developer at Mentor Bridge, Dindigul.
+- Passionate about REST APIs, system design, and AI-integrated backend solutions.
 
 
 ## Skill Stack
@@ -77,10 +77,9 @@
 
 ---
 
-## Links
-* [**LinkedIn**](https://linkedin.com/in/vinith-selvaraj)
-* [**Contact**](mailto:vinithselvaraj123@gmail.com)
+## 🤝 Connect with Me
 
-<a href="https://linkedin.com/in/vinith-selvaraj" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
+<p align="left">
+<a href="https://linkedin.com/in/vinith-selvaraj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:vinithselvaraj123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
