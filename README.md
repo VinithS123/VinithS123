@@ -10,9 +10,6 @@
 ## Skill Stack
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgresql,github,docker,maven,postman,idea&theme=light)](https://skillicons.dev)
 
-![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
-
 **Also comfortable with**: Microservices, REST APIs, Spring Security, JWT, Mockito, Swagger, HTML, CSS
 
 
@@ -25,44 +22,54 @@
     <td align="center" valign="top" width="33%">
       <img src="assets/CommerceX2.png" alt="CommerceX" style="width:100%; height:160px; object-fit:cover; border-radius:8px;"/>
       <br/><br/>
-      <b>CommerceX</b><br/>
-      <sub>Architected a microservices backend with API Gateway, Discovery Server, Product, Inventory, and Order services. Integrated Cloudinary, Gemini AI, and Twilio SMS.</sub><br/>
-      <br/>
-      <sub>Tags: Java, Spring Boot, Microservices, AI</sub>
+      <i>E-Commerce Website (Microservices)</i><br/>
+      <sub><b>Tech:</b> <code>Java</code> <code>Spring Boot</code> <code>Microservices</code></sub><br/>
+      <sub><b>Highlights:</b> <code>Gemini AI</code> <code>Twilio SMS</code> <code>Cloudinary</code></sub><br/><br/>
+      <a href="YOUR_REPO_LINK_HERE" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-View_Repo-181717?logo=github&logoColor=white" alt="View Repository"/>
+      </a>
     </td>
     <td align="center" valign="top" width="33%">
       <img src="assets/Fintrack1.png" alt="FinTrack" style="width:100%; height:160px; object-fit:cover; border-radius:8px;"/>
       <br/><br/>
-      <b>FinTrack</b><br/>
-      <sub>Secure finance transaction backend with Spring Boot, PostgreSQL, JWT authentication, and role-based access control. Features analytics APIs with filtering, sorting, and pagination.</sub><br/>
-      <br/>
-      <sub>Tags: Spring Boot, PostgreSQL, Security, REST APIs</sub>
+      <i>Transaction Management and Analytics</i><br/>
+      <sub><b>Tech:</b> <code>Spring Boot</code> <code>PostgreSQL</code> <code>REST APIs</code></sub><br/>
+      <sub><b>Highlights:</b> <code>Spring Security</code> <code>JWT RBAC</code> <code>Swagger</code></sub><br/><br/>
+      <a href="YOUR_REPO_LINK_HERE" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-View_Repo-181717?logo=github&logoColor=white" alt="View Repository"/>
+      </a>
     </td>
     <td align="center" valign="top" width="33%">
       <img src="assets/SafeVisionAI.png" alt="SafeVision AI" style="width:100%; height:160px; object-fit:cover; border-radius:8px;"/>
       <br/><br/>
-      <b>SafeVision AI</b><br/>
-      <sub>Live monitoring dashboard tracking system metrics with Gemini AI log analysis. Multi-channel alerting via email, SMS, and call using JavaMail and Twilio.</sub><br/>
-      <br/>
-      <sub>Tags: Spring Boot, AI, Monitoring, Twilio</sub>
+      <i>Real-Time Monitoring & AI Diagnostics System</i><br/>
+      <sub><b>Tech:</b> <code>Spring Boot</code> <code>JavaMail</code> <code>APIs</code></sub><br/>
+      <sub><b>Highlights:</b> <code>Gemini AI Logs</code> <code>Twilio Alerts</code></sub><br/><br/>
+      <a href="YOUR_REPO_LINK_HERE" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-View_Repo-181717?logo=github&logoColor=white" alt="View Repository"/>
+      </a>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <img src="assets/SafeStay2.png" alt="SafeStay" style="width:100%; height:160px; object-fit:cover; border-radius:8px;"/>
       <br/><br/>
-      <b>SafeStay</b><br/>
-      <sub>Automated approximately 80% of manual PG workflows through a multi-user Spring Boot backend with REST APIs and JWT-based authentication, enabling secure concurrent user access.</sub><br/>
-      <br/>
-      <sub>Tags: Spring Boot, JWT, Spring Security, Twilio</sub>
+      <i>Multi-User PG Management System</i><br/>
+      <sub><b>Tech:</b> <code>Spring Boot</code> <code>REST APIs</code></sub><br/>
+      <sub><b>Highlights:</b> <code>JWT Auth</code> <code>Twilio Automations</code></sub><br/><br/>
+      <a href="YOUR_REPO_LINK_HERE" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-View_Repo-181717?logo=github&logoColor=white" alt="View Repository"/>
+      </a>
     </td>
     <td align="center" valign="top" width="33%">
       <img src="assets/Trackify.png" alt="Trackify" style="width:100%; height:160px; object-fit:cover; border-radius:8px;"/>
       <br/><br/>
-      <b>Trackify</b><br/>
-      <sub>A task tracking backend with real-time status updates, user assignment, and progress monitoring built with Spring Boot and PostgreSQL.</sub><br/>
-      <br/>
-      <sub>Tags: Spring Boot, PostgreSQL, REST APIs</sub>
+      <i>Task Tracking Platform</i><br/>
+      <sub><b>Tech:</b> <code>Spring Boot</code> <code>PostgreSQL</code> <code>REST APIs</code></sub><br/>
+      <sub><b>Highlights:</b> <code>Status Tracking</code> <code>User Assignment</code></sub><br/><br/>
+      <a href="YOUR_REPO_LINK_HERE" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-View_Repo-181717?logo=github&logoColor=white" alt="View Repository"/>
+      </a>
     </td>
     <td align="center" valign="top" width="33%"></td>
   </tr>
