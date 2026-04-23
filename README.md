@@ -4,7 +4,7 @@
 ## About Me
 - I build scalable backends with Java, Spring Boot, and Microservices.
 - Currently interning as a Java Backend Developer at Mentor Bridge, Dindigul.
-- Passionate about REST APIs, system design, and AI-integrated backend solutions.
+- Passionate about designing and developing reliable, scalable, and high-performance applications.
 
 
 ## Skill Stack
