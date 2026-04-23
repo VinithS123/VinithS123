@@ -23,7 +23,7 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="assets/CommerceX1.png" alt="CommerceX" style="width:100%; height:160px; object-fit:cover; border-radius:8px;"/>
+      <img src="assets/CommerceX2.png" alt="CommerceX" style="width:100%; height:160px; object-fit:cover; border-radius:8px;"/>
       <br/><br/>
       <b>CommerceX</b><br/>
       <sub>Architected a microservices backend with API Gateway, Discovery Server, Product, Inventory, and Order services. Integrated Cloudinary, Gemini AI, and Twilio SMS.</sub><br/>
