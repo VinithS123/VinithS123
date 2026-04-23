@@ -26,7 +26,7 @@
       <sub><b>Tech:</b> <code>Java</code> <code>Spring Boot</code> <code>Microservices</code></sub><br/>
       <sub><b>Highlights:</b> <code>Gemini AI</code> <code>Twilio SMS</code> <code>Cloudinary</code></sub><br/><br/>
       <a href="YOUR_REPO_LINK_HERE" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-View_Repo-181717?logo=github&logoColor=white" alt="View Repository"/>
+        <img src="https://img.shields.io/badge/GitHub-View%20Code-181717?logo=github&logoColor=white" alt="View Code"/>
       </a>
     </td>
     <td align="center" valign="top" width="33%">
@@ -36,7 +36,7 @@
       <sub><b>Tech:</b> <code>Spring Boot</code> <code>PostgreSQL</code> <code>REST APIs</code></sub><br/>
       <sub><b>Highlights:</b> <code>Spring Security</code> <code>JWT RBAC</code> <code>Swagger</code></sub><br/><br/>
       <a href="YOUR_REPO_LINK_HERE" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-View_Repo-181717?logo=github&logoColor=white" alt="View Repository"/>
+        <img src="https://img.shields.io/badge/GitHub-View%20Code-181717?logo=github&logoColor=white" alt="View Code"/>
       </a>
     </td>
     <td align="center" valign="top" width="33%">
@@ -46,7 +46,7 @@
       <sub><b>Tech:</b> <code>Spring Boot</code> <code>JavaMail</code> <code>APIs</code></sub><br/>
       <sub><b>Highlights:</b> <code>Gemini AI Logs</code> <code>Twilio Alerts</code></sub><br/><br/>
       <a href="YOUR_REPO_LINK_HERE" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-View_Repo-181717?logo=github&logoColor=white" alt="View Repository"/>
+        <img src="https://img.shields.io/badge/GitHub-View%20Code-181717?logo=github&logoColor=white" alt="View Code"/>
       </a>
     </td>
   </tr>
@@ -58,7 +58,7 @@
       <sub><b>Tech:</b> <code>Spring Boot</code> <code>REST APIs</code></sub><br/>
       <sub><b>Highlights:</b> <code>JWT Auth</code> <code>Twilio Automations</code></sub><br/><br/>
       <a href="YOUR_REPO_LINK_HERE" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-View_Repo-181717?logo=github&logoColor=white" alt="View Repository"/>
+        <img src="https://img.shields.io/badge/GitHub-View%20Code-181717?logo=github&logoColor=white" alt="View Code"/>
       </a>
     </td>
     <td align="center" valign="top" width="33%">
@@ -68,7 +68,7 @@
       <sub><b>Tech:</b> <code>Spring Boot</code> <code>PostgreSQL</code> <code>REST APIs</code></sub><br/>
       <sub><b>Highlights:</b> <code>Status Tracking</code> <code>User Assignment</code></sub><br/><br/>
       <a href="YOUR_REPO_LINK_HERE" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-View_Repo-181717?logo=github&logoColor=white" alt="View Repository"/>
+        <img src="https://img.shields.io/badge/GitHub-View%20Code-181717?logo=github&logoColor=white" alt="View Code"/>
       </a>
     </td>
     <td align="center" valign="top" width="33%"></td>
