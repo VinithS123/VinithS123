@@ -2,9 +2,9 @@
 **`Java Backend Developer`**
 
 ## About Me
-- I build scalable backends with Java, Spring Boot, and Microservices.
-- Currently interning as a Java Backend Developer at Mentor Bridge, Dindigul.
-- Passionate about REST APIs, system design, and AI-integrated backend solutions.
+* I build scalable backends with Java, Spring Boot, and Microservices.
+* Currently interning as a Java Backend Developer at Mentor Bridge, Dindigul.
+* Passionate about REST APIs, system design, and AI-integrated backend solutions.
 
 
 ## Skill Stack
@@ -25,7 +25,7 @@
       <i>E-Commerce Website (Microservices)</i><br/>
       <sub><b>Tech:</b> <code>Java</code> <code>Spring Boot</code> <code>Microservices</code></sub><br/>
       <sub><b>Highlights:</b> <code>Gemini AI</code> <code>Twilio SMS</code> <code>Cloudinary</code></sub><br/><br/>
-      <a href="YOUR_REPO_LINK_HERE" target="_blank">
+      <a href="https://github.com/VinithS123/e-commerce" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-View%20Code-181717?logo=github&logoColor=white" alt="View Code"/>
       </a>
     </td>
@@ -35,7 +35,7 @@
       <i>Transaction Management and Analytics</i><br/>
       <sub><b>Tech:</b> <code>Spring Boot</code> <code>PostgreSQL</code> <code>REST APIs</code></sub><br/>
       <sub><b>Highlights:</b> <code>Spring Security</code> <code>JWT RBAC</code> <code>Swagger</code></sub><br/><br/>
-      <a href="YOUR_REPO_LINK_HERE" target="_blank">
+      <a href="https://github.com/VinithS123/transaction-management" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-View%20Code-181717?logo=github&logoColor=white" alt="View Code"/>
       </a>
     </td>
@@ -45,7 +45,7 @@
       <i>Real-Time Monitoring & AI Diagnostics System</i><br/>
       <sub><b>Tech:</b> <code>Spring Boot</code> <code>JavaMail</code> <code>APIs</code></sub><br/>
       <sub><b>Highlights:</b> <code>Gemini AI Logs</code> <code>Twilio Alerts</code></sub><br/><br/>
-      <a href="YOUR_REPO_LINK_HERE" target="_blank">
+      <a href="https://github.com/VinithS123/industrial-realtime-monitoring-system" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-View%20Code-181717?logo=github&logoColor=white" alt="View Code"/>
       </a>
     </td>
@@ -57,7 +57,7 @@
       <i>Multi-User PG Management System</i><br/>
       <sub><b>Tech:</b> <code>Spring Boot</code> <code>REST APIs</code></sub><br/>
       <sub><b>Highlights:</b> <code>JWT Auth</code> <code>Twilio Automations</code></sub><br/><br/>
-      <a href="YOUR_REPO_LINK_HERE" target="_blank">
+      <a href="https://github.com/VinithS123/pg-management" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-View%20Code-181717?logo=github&logoColor=white" alt="View Code"/>
       </a>
     </td>
@@ -67,7 +67,7 @@
       <i>Task Tracking Platform</i><br/>
       <sub><b>Tech:</b> <code>Spring Boot</code> <code>PostgreSQL</code> <code>REST APIs</code></sub><br/>
       <sub><b>Highlights:</b> <code>Status Tracking</code> <code>User Assignment</code></sub><br/><br/>
-      <a href="YOUR_REPO_LINK_HERE" target="_blank">
+      <a href="https://github.com/VinithS123/tasktracker" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-View%20Code-181717?logo=github&logoColor=white" alt="View Code"/>
       </a>
     </td>
@@ -78,9 +78,9 @@
 ---
 
 ## Links
-- [**LinkedIn**](https://linkedin.com/in/your-linkedin)
-- [**Contact**](mailto:vinithselvaraj123@gmail.com)
+* [**LinkedIn**](https://linkedin.com/in/vinith-selvaraj)
+* [**Contact**](mailto:vinithselvaraj123@gmail.com)
 
-<a href="https://linkedin.com/in/your-linkedin" target="blank">
+<a href="https://linkedin.com/in/vinith-selvaraj" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
