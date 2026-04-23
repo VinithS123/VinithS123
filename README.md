@@ -22,7 +22,7 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <img src="assets/CommerceX2.png" alt="CommerceX" style="width:100%; height:160px; object-fit:cover; border-radius:8px;"/>
       <br/><br/>
       <b>CommerceX</b><br/>
@@ -30,7 +30,7 @@
       <br/>
       <sub>Tags: Java, Spring Boot, Microservices, AI</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <img src="assets/Fintrack1.png" alt="FinTrack" style="width:100%; height:160px; object-fit:cover; border-radius:8px;"/>
       <br/><br/>
       <b>FinTrack</b><br/>
@@ -38,7 +38,7 @@
       <br/>
       <sub>Tags: Spring Boot, PostgreSQL, Security, REST APIs</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <img src="assets/SafeVisionAI.png" alt="SafeVision AI" style="width:100%; height:160px; object-fit:cover; border-radius:8px;"/>
       <br/><br/>
       <b>SafeVision AI</b><br/>
@@ -48,7 +48,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <img src="assets/SafeStay2.png" alt="SafeStay" style="width:100%; height:160px; object-fit:cover; border-radius:8px;"/>
       <br/><br/>
       <b>SafeStay</b><br/>
@@ -56,7 +56,7 @@
       <br/>
       <sub>Tags: Spring Boot, JWT, Spring Security, Twilio</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <img src="assets/Trackify.png" alt="Trackify" style="width:100%; height:160px; object-fit:cover; border-radius:8px;"/>
       <br/><br/>
       <b>Trackify</b><br/>
@@ -64,7 +64,7 @@
       <br/>
       <sub>Tags: Spring Boot, PostgreSQL, REST APIs</sub>
     </td>
-    <td align="center" width="33%"></td>
+    <td align="center" valign="top" width="33%"></td>
   </tr>
 </table>
 
